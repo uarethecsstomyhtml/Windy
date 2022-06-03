@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Windy app</string>
+    <string name="action_start">Запустить</string>
+    <string name="hint_enter_number">Введите число</string>
+</resources>
